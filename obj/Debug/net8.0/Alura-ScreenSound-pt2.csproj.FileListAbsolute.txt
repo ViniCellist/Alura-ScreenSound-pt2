@@ -1,0 +1,15 @@
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\bin\Debug\net8.0\Alura-ScreenSound-pt2.exe
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\bin\Debug\net8.0\Alura-ScreenSound-pt2.deps.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\bin\Debug\net8.0\Alura-ScreenSound-pt2.runtimeconfig.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\bin\Debug\net8.0\Alura-ScreenSound-pt2.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\bin\Debug\net8.0\Alura-ScreenSound-pt2.pdb
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.AssemblyInfoInputs.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.AssemblyInfo.cs
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.csproj.CoreCompileInputs.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.sourcelink.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\refint\Alura-ScreenSound-pt2.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.pdb
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\Alura-ScreenSound-pt2.genruntimeconfig.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-ScreenSound-pt2\obj\Debug\net8.0\ref\Alura-ScreenSound-pt2.dll
